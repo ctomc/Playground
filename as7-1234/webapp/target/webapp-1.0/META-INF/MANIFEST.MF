@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Dependencies: org.jboss.as.tests.as71234.entites annotations
-
